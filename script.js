@@ -40,7 +40,7 @@ const siteData = [
         other : '3桁の数字を打て！'
     },
     {
-        Name : '超簡易初速見れるサイト',
+        Name : '簡易初速見れる',
         URL : 'https://tube22-ex.github.io/latencyTest/',
         other : '実用性無し'
     }
