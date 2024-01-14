@@ -38,6 +38,11 @@ const siteData = [
         Name : 'xKUN-xxx',
         URL : 'https://tube22-ex.github.io/xKUN-xxx/',
         other : '3桁の数字を打て！'
+    },
+    {
+        Name : '超簡易初速見れるサイト',
+        URL : 'https://tube22-ex.github.io/latencyTest/',
+        other : '実用性無し'
     }
 ]
 const contents = document.getElementById('contents');
