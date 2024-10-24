@@ -5,6 +5,11 @@ const siteData = [
         other : "たいつべ風サイト"
     },
     {
+        Name : 'Number-luck-game',
+        URL : 'https://tube22-ex.github.io/Number-luck-game/',
+        other : "数字が来るのを願う"
+    },
+    {
         Name : 'BITyping',
         URL : 'https://tube22-ex.github.io/biTyping/',
         other : "10進数直して打つだけ"
