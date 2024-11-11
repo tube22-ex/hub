@@ -5,6 +5,11 @@ const siteData = [
         other : "たいつべ風サイト"
     },
     {
+        Name : '1111',
+        URL : 'https://tube22-ex.github.io/1111/',
+        other : "1１一いち"
+    },
+    {
         Name : 'Number-luck-game',
         URL : 'https://tube22-ex.github.io/Number-luck-game/',
         other : "数字が来るのを願う"
