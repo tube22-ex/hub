@@ -1,5 +1,10 @@
 const siteData = [
     {
+        Name : 'CSSGenerator',
+        URL : 'https://tube22-ex.github.io/Ytyping_CSSSimpleGenerator/',
+        other : "ジェネ"
+    },
+    {
         Name : 'TYTUBE',
         URL : 'https://tube22-ex.github.io/startScreen/',
         other : "たいつべ風サイト"
